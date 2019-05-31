@@ -1,1 +1,1 @@
-GlobalDine [GLDC] Coin
+GloboDine [GLDC] Coin
